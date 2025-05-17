@@ -119,7 +119,7 @@ const experiences = [
     company_name: "HBL - Habib Bank Limited ",
     icon: hbl,
     iconBg: "rgb(255 255 255)",
-    date: "Augusts 2023 - Present",
+    date: "August 2023 - Present",
     points: [
       "Architected and implemented responsive account opening application using the MEAN stack, resulting in a 30% improvement in user experience across devices.",
       "Engineered RESTful APIs and back-end systems with comprehensive logging using Node.js, enhancing data processing efficiency by 25% and reducing server response time by 40%.",
@@ -145,7 +145,7 @@ const experiences = [
     company_name: "CATALYST IT Solutions (Pvt) Ltd",
     icon: catalyst,
     iconBg: "rgb(255 255 255)",
-    date: "Oct 2022 - Jan 2023",
+    date: "Oct 2020 - May 2021",
     points: [
       "Manufacture a comprehensive stock market dashboard, enabling clients to visualize gains and losses through interactive graphs, tables, and reports, resulting in a 35% increase in user engagement.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
